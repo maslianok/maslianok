@@ -2,5 +2,6 @@
 
 I’m the creator of [**GitRanks**](https://gitranks.com) - a web app that provides **dynamic GitHub badges** to showcase your open-source achievements.
 
-[<img src="https://gitranks.com/api/badge/v2/maslianok?ranking=s&context=global&type=position&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />](https://gitranks.com/profile/maslianok)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://gitranks.com/api/badge/v2/maslianok?ranking=c&context=global&type=position&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />](https://gitranks.com/profile/maslianok)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://gitranks.com/api/badge/v2/maslianok?ranking=f&context=global&type=position&meta=percentile&label=Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />](https://gitranks.com/profile/maslianok)
+[![maslianok on GitRanks: stars rank #26,688 · top 2%](https://gitranks.com/badge/user/maslianok/rank.svg?scheme=classic)](https://gitranks.com/profile/maslianok)&nbsp;&nbsp;&nbsp;&nbsp;[![maslianok on GitRanks: TypeScript rank #2,562 · top 1%](https://gitranks.com/badge/user/maslianok/language-rank.svg?extra=top&scheme=violet)](https://gitranks.com/profile/maslianok)
+&nbsp;&nbsp;&nbsp;&nbsp;[![maslianok on GitRanks: gitranks Elite](https://gitranks.com/badge/user/maslianok/tier.svg?scheme=tier)](https://gitranks.com/profile/maslianok)
 
